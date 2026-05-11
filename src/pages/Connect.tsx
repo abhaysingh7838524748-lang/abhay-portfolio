@@ -59,7 +59,7 @@ function ContactForm() {
     {
       question: "Tell me about your project.",
       field: 'message' as const,
-      placeholder: 'What are you building? What's the challenge?',
+      placeholder: 'What are you building? What\'s the challenge?',
       type: 'textarea',
     },
   ]
